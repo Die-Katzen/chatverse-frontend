@@ -1,0 +1,14 @@
+.senderMessage {
+  align-self: flex-end;
+}
+
+.message {
+  width: 45%;
+  margin-bottom: 20px;
+  padding: 1.7vh !important;
+  border-radius: 20px !important;
+}
+
+.timeStamp {
+  padding: 0;
+}

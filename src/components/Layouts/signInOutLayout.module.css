@@ -1,0 +1,15 @@
+.flexColumnCenter {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 65vw;
+}
+
+@media screen and (min-width: 1023px) {
+  .container {
+    width: 30vw;
+  }
+}

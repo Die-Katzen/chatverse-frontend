@@ -1,0 +1,20 @@
+.addFriendIcon {
+  width: 20px;
+  height: 20px;
+}
+.addFriendBtn {
+  width: 50px;
+  height: 50px !important;
+  box-shadow: 0 0 9px 0px #544f4f;
+}
+
+@media screen and (min-width: 1024px) {
+  .addFriendIcon {
+    width: 30px;
+    height: 30px;
+  }
+  .addFriendBtn {
+    width: 60px;
+    height: 60px !important;
+  }
+}
